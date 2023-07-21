@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(186, 186, 18);
+}
+.container {
+    border: 10px solid rgb(94, 67, 0);
+    border-radius: 40px;
+    width: 100vb;
+    height: 50vh;
+    padding: 3px;
+    background-color: black;
+    margin: 100px auto;
+}
+#heading {
+    align-items: center;
+    text-align: center;
+    width: 60vb;
+    display: inline;
+    margin: auto;
+    font-size: xx-large;
+    color: white;
+    height: 30px;
+}
+
+.joke{
+    color: #a6a51b;
+    font-size: 24px;
+    margin: 4px auto;
+    text-align: center;
+    height: 24%;
+}
+.btn{
+    padding: 5px;
+    font-size: 17px;
+    font-weight: bolder;
+    display: inherit;
+    margin: 9px auto;
+    border: 4px solid #11ce14;
+    border-radius: 19px;
+    background: #3e4c07;
+    color: white;
+}
